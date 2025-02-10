@@ -2076,6 +2076,27 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &378495852 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1518822112414784520, guid: fc174816ebde5bd428ff91678bfb5ce6, type: 3}
+  m_PrefabInstance: {fileID: 2787036266968460036}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &378495853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378495852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 932f938d22f4fe44b8b53b961fa3e70d, type: 2}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -3592,7 +3613,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1518822112414784520, guid: fc174816ebde5bd428ff91678bfb5ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 378495853}
   m_SourcePrefab: {fileID: 100100000, guid: fc174816ebde5bd428ff91678bfb5ce6, type: 3}
 --- !u!1001 &8816022733829167710
 PrefabInstance:
