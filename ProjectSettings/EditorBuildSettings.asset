@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene Folder/Scene 3.unity
     guid: 6ea36f5e1518349449703d36f7dbc5b5
+  - enabled: 1
+    path: Assets/Scene Folder/End Credits Scene.unity
+    guid: 68a9c8c98caad654f99cd091c94c2a54
   m_configObjects: {}
