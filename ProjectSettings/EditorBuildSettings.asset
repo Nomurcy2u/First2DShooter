@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene Folder/End Credits Scene.unity
     guid: 68a9c8c98caad654f99cd091c94c2a54
+  - enabled: 1
+    path: Assets/Scene Folder/Death Screen.unity
+    guid: d52254ad646149140b99d3f8e203ae5e
   m_configObjects: {}
