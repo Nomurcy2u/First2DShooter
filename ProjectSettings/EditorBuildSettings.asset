@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene Folder/Title Scene.unity
     guid: 0563dcaa53f2d4c43bc794a818da91d1
+  - enabled: 1
+    path: Assets/Scene Folder/Scene 3.unity
+    guid: 6ea36f5e1518349449703d36f7dbc5b5
+  - enabled: 1
+    path: Assets/Scene Folder/End Credits Scene.unity
+    guid: 68a9c8c98caad654f99cd091c94c2a54
+  - enabled: 1
+    path: Assets/Scene Folder/Death Screen.unity
+    guid: d52254ad646149140b99d3f8e203ae5e
   m_configObjects: {}
